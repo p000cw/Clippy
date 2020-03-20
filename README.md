@@ -1,4 +1,4 @@
-[Clippy](http://bennettfeely.com/clippy)
+[Clippy](https://clippy.autocode.app)
 ======
 
 Shape up your website with CSS clip-paths!

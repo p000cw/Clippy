@@ -1,10 +1,10 @@
 {
   "name": "clippy",
-  "author": "Bennett Feely",
+  "author": "Pushpahas Bettad",
   "description": "Create CSS clip-paths",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bennettfeely/clippy.git"
+    "url": "git://github.com/p000cw/Clippy.git"
   },
   "devDependencies": {
     "favicon": "0.0.2",
